@@ -30,7 +30,7 @@ license: mit
 ## 🚀 Demo en vivo
 
 🎯 **Prueba la app directamente aquí:**  
-👉 [AION Creator Studio en Hugging Face Spaces](https://huggingface.co/spaces/TU_USUARIO/AION-Creator-Studio)
+👉 [AION Creator Studio en Hugging Face Spaces]([https://huggingface.co/spaces/TU_USUARIO/AION-Creator-Studio](https://huggingface.co/spaces/MigueRubio1/AIONcreatorstudio))
 
 ---
 
