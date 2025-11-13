@@ -30,7 +30,7 @@ license: mit
 ## 🚀 Demo en vivo
 
 🎯 **Prueba la app directamente aquí:**  
-👉 [AION Creator Studio en Hugging Face Spaces]([https://huggingface.co/spaces/TU_USUARIO/AION-Creator-Studio](https://huggingface.co/spaces/MigueRubio1/AIONcreatorstudio))
+👉 [AION Creator Studio en Hugging Face Spaces] (https://huggingface.co/spaces/MigueRubio1/AIONcreatorstudio)
 
 ---
 
@@ -61,7 +61,7 @@ license: mit
 ## ⚙️ Instalación local
 
 ```bash
-git clone https://github.com/TU_USUARIO/aion_creator_studio.git
+git clone https://github.com/MikeRubio66/AIONcreatorstudio
 cd aion_creator_studio
 pip install -r requirements.txt
 streamlit run app.py
