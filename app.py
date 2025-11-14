@@ -5,7 +5,7 @@ import base64
 import io
 
 # URL del proxy
-PROXY_URL = "https://aioncreatorstudioproxy-1.onrender.com"
+PROXY_URL = "https://aioncreatorstudioproxy.onrender.com"
 
 st.set_page_config(page_title="AION Creator Studio", layout="centered")
 
